@@ -1,0 +1,62 @@
+window.MEDIA {
+    all: unset;
+    background-color: transparent;
+}
+.media-menu {
+    border-radius: 20px;
+    background-color: #100d10;
+    padding: 14px;
+    
+}
+.media-box {
+    background: #231e22;
+    padding: 5px 10px 5px 10px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    
+}
+.revealer-box {
+    background: #231e22;
+    padding: 50px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    
+}
+scale {
+    padding: 0;
+    margin: 10px 0;
+
+    trough {
+        min-height: 8px;
+    }
+
+    highlight {
+        background-color: yellow;
+    }
+
+    slider {
+        all: unset;
+    }
+}
+icon.media-icon {
+    margin-left: 10px;
+}
+.cover-art {
+    border-radius: 20px;
+    padding: 20px;
+    min-width: 100px;
+    min-height: 100px;
+    background-size: contain;
+    background-position: center;
+}
+.control{
+    button {
+        all: unset;
+        padding: 10px;
+        margin: 0px 5px;
+        background: #231e22;
+        color: #fff;
+        border: none;
+        border-radius: 10px;
+    }
+}

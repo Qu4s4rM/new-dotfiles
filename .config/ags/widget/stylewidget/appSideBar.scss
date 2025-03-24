@@ -1,0 +1,9 @@
+window.sidebar {
+    all: unset;
+    background-color: transparent;
+    .sidebar-box {
+        background: #100d10;
+        border-radius: 14px;
+        min-width: 300px;
+    }
+}
